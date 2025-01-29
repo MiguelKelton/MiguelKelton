@@ -1,7 +1,8 @@
-## Olá! Eu sou o Matheus Fraga 🖐️
+## Olá! Eu sou o Miguel Kelton 🖐️
 
-[![Blog](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://sujeitoprogramador.com/)]([https://sujeitoprogramador.com](https://miguelkelton.github.io))
-[![LinkedIn]([https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))]([https://youtube.com/c/sujeitoprogramador](https://www.linkedin.com/in/miguel-kelton-))
+[![Blog](	https://img.shields.io/badge/miguelkelton.github.io-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://miguelkelton.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://youtube.com/c/sujeitoprogramador)
+
 
 ## Tecnologias que eu uso no meu dia
 
@@ -14,10 +15,5 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-💻 Desenvolvedor com mais de 10 anos de experiência, apaixonado por compartilhar conhecimento e ajudar pessoas a entrarem no mundo da programação.
+💻 Atualmente, estou no 4º período da graduação em Análise e Desenvolvimento de Sistemas, aprofundando ainda mais meus conhecimentos e habilidades.
 
-### Últimos videos:
-- [Como ZUSTAND deixa seu projeto profissional](https://youtu.be/nutJS8u4RtQ)<br/>
-- [Criando Aplicativo + IA profissional do zero](https://youtu.be/A2yPW3ZSv_A)<br/>
-- [Nunca foi tão fácil criar Dashboard com Next JS e Shadcn ui 🔥](https://youtu.be/PqRe0Q9b5QI)<br/>
-- [Aprendendo e conhecendo FIGMA - UI Design](https://youtu.be/KRCfX25yFf4)<br/>
