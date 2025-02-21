@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Miguel Kelton 🖐️
 
 [![Blog](	https://img.shields.io/badge/miguelkelton.github.io-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://miguelkelton.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://youtube.com/c/sujeitoprogramador)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/miguel-kelton-)
 
 ![Miguel GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelKelton&show_icons=true&theme=radical)
 
