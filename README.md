@@ -16,5 +16,5 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-💻 Atualmente, estou no 4º período da graduação em Análise e Desenvolvimento de Sistemas, aprofundando ainda mais meus conhecimentos e habilidades.
+💻 Atualmente, estou no 5º período da graduação em Análise e Desenvolvimento de Sistemas, aprofundando ainda mais meus conhecimentos e habilidades.
 
